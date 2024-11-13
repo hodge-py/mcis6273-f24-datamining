@@ -163,3 +163,4 @@ cython_debug/
 homework/hw0/data/hw0_dataset_1M.csv
 homework/hw0/tmp.csv
 homework/hw0/data/cleaned_data.csv
+homework/hw1/en.openfoodfacts.products.cookies.csv
